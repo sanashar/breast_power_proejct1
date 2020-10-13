@@ -1,5 +1,5 @@
 # BREAST POWER Awareness - Model on Breast Cancer 
-![Singapore](https://github.com/sanashar/singapore_airbnb_modelling/blob/main/heat_map.png)
+![October](https://github.com/sanashar/breast_power_proejct1/blob/main/october_pic.jpg)
 
 # Overview 
 Breast cancer is a significant public health problem in today’s society. It is one of the most common cancers among women worldwide, representing the majority of new cancer cases and cancer-related deaths according to global statistics. The early diagnosis can improve the prognosis and chance of survival, as it can promote timely clinical treatment to patients. Furthermore, accurate classification of benign tumors can prevent patients undergoing unnecessary treatments. In this project I will develop a machine learning algorithm that can predict the discrete class of breast cancer using test and training approach. 
