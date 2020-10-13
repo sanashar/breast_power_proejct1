@@ -1,4 +1,4 @@
-# breast_power_proejct1
+# BREAST POWER Awareness - Model on Breast Cancer 
 ![Singapore](https://github.com/sanashar/singapore_airbnb_modelling/blob/main/heat_map.png)
 
 # Overview 
