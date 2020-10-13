@@ -17,11 +17,11 @@ The objective is to use machine learning classification methods to fit a functio
 Hypothesis - I hypothise that most of the features values are near to 0. Another hypothesis is that, both the classes(M, B) depends on the features values and feature values are different for for each class.
 
 # Repository Navigation
-Technical Notebook               : [Notebook](https://github.com/sanashar/singapore_airbnb_modelling/tree/main/Notebooks)
+Technical Notebook               : [Notebook](https://github.com/sanashar/breast_power_project1/tree/main/notebook)
 
-Report       : [Summary Report](https://github.com/sanashar/singapore_airbnb_modelling/tree/main/Summary%20Report)
+Report       : [Summary Report](https://github.com/sanashar/breast_power_project1/tree/main/reports)
 
-Presentation       : [PowerPoint](https://github.com/sanashar/singapore_airbnb_modelling/tree/main/Data)
+Presentation       : [PowerPoint](https://github.com/sanashar/breast_power_project1/tree/main/presentation)
 
 
 # Data Summary
