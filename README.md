@@ -23,6 +23,8 @@ Report       : [Summary Report](https://github.com/sanashar/breast_power_project
 
 Presentation       : [PowerPoint](https://github.com/sanashar/breast_power_project1/tree/main/presentation)
 
+Youtube Presentation       : [Link](https://youtu.be/WmFxiRz2LQ4)
+
 
 # Data Summary
 This is the Breast Cancer Wisconsin dataset, created by Dr. William H. Wolberg. I will be using loading the data from [sklearn.data](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html) website, but it is also available on [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) website and [Kaggle](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data). It has 569 entries and 30 columns. 
