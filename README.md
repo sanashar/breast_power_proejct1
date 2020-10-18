@@ -2,21 +2,20 @@
 ![October](https://github.com/sanashar/breast_power_proejct1/blob/main/october_pic.jpg)
 
 # Overview 
-Breast cancer is a significant public health problem in today’s society. It is one of the most common cancers among women worldwide, representing the majority of new cancer cases and cancer-related deaths according to global statistics. The early diagnosis can improve the prognosis and chance of survival, as it can promote timely clinical treatment to patients. Furthermore, accurate classification of benign tumors can prevent patients undergoing unnecessary treatments. In this project I will develop a machine learning algorithm that can predict the discrete class of breast cancer using test and training approach. 
+Breast cancer is a significant public health problem in today’s society. It is one of the most common cancers among women worldwide, representing the majority of new cancer cases and cancer-related deaths according to global statistics. The early diagnosis can improve the prognosis and chance of survival, as it can promote timely clinical treatment to patients. Furthermore, accurate classification of benign tumors can prevent patients undergoing unnecessary treatments. In this project, I will use four machine learning algorithms: Logistic Regression, K-Nearest Neighbors, Decision Tree and Random Forest to create models for Breast Cancer prediction and compare which has the best accuracy score though testing and training. 
 
 # Project Goal
-The objective is to use machine learning classification methods to fit a function that can predict the discrete class of new input. The goal is to answer the following questions through our analysis -
-    
-    What is the accuracy of the training set?
-    What is the accuracy of the test set?
-    What is the precision of the test set?
-    What is the recall of the test set?
-    What is the area over the curve of the test set?
-    What is the F1 score of the test set?
-    
-Hypothesis - I hypothise that most of the features values are near to 0. Another hypothesis is that, both the classes(M, B) depends on the features values and feature values are different for for each class.
+Through my research, the goal is that the highest performing model may eventually be used to create an AI tool to assist clinicians in Breast Cancer screening and detection. This research study aims to address following research question -
 
-# Repository Navigation
+Which ML model from this study best enables the prediction of BC using the classification algorithm of supervised learning by testing and training the data?
+
+# Motivation & Background
+Model selection is the most exciting phase in Applying Machine Learning to any dataset and is also known as algorithm selection for predicting the best results. So I will use classification algorithm of supervised learning and the highest performing model can assist clinicians in detecting BC. Many researchers have used classification and data mining methods so far, and have concluded that ML is an effective way to classify data. Especially in medical field, these methods have been used to predict and to make decisions. Thus, the correct diagnosis of breast cancer and classification of patients into malignant or benign groups is the subject of much research.
+
+# Repository Navigation 
+
+Table of Contents -
+
 Technical Notebook               : [Notebook](https://github.com/sanashar/breast_power_project1/tree/main/notebook)
 
 Report       : [Summary Report](https://github.com/sanashar/breast_power_project1/tree/main/reports)
@@ -27,7 +26,7 @@ Youtube Presentation       : [Link](https://youtu.be/WmFxiRz2LQ4)
 
 
 # Data Summary
-This is the Breast Cancer Wisconsin dataset, created by Dr. William H. Wolberg. I will be using loading the data from [sklearn.data](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html) website, but it is also available on [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) website and [Kaggle](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data). It has 569 entries and 30 columns. 
+This is the Breast Cancer Wisconsin dataset, created by Dr. William H. Wolberg. I will be loading the data from [sklearn.data](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html) website, but it is also available on [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) website and [Kaggle](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data). It has 569 entries and 30 columns. 
 
   Attribute Information:
 1) ID number
@@ -47,11 +46,11 @@ Ten real-valued features are computed for each cell nucleus:
 
 
 
-# Project Info
+# Project Info & Software Requirements
 DATA 602 Project 1 - Sana Sharma
 
-Languages    : Python
+Languages    : Python 2.7
 
 Tools/IDE    : Anaconda
 
-Libraries    : pandas, matplotlib, statsmodels, sklearn
+Libraries    : pandas, matplotlib, statsmodels, sklearn, seaborn
