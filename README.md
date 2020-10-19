@@ -16,7 +16,7 @@ Model selection is the most exciting phase in Applying Machine Learning to any d
 
 Table of Contents -
 
-Technical Notebook               : [Notebook](https://github.com/sanashar/breast_power_project1/tree/main/notebook)
+Technical Notebook               : [Notebook](https://github.com/sanashar/breast_power_project1/tree/main/notebooks)
 
 Report       : [Summary Report](https://github.com/sanashar/breast_power_project1/tree/main/reports)
 
